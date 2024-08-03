@@ -22,7 +22,6 @@ export const Navegacion = () => {
 
   return (
     <Stack.Navigator screenOptions={{
-      headerShown: false,
       cardStyle: {
         backgroundColor: colors.fondo,
       }
